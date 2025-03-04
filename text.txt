@@ -7,3 +7,9 @@
  spirit
  manoj
  ashwin
+ #include<stdio.h> 
+ void main()
+{
+
+ if()  
+  
