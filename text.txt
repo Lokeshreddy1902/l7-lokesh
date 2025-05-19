@@ -9,7 +9,7 @@
  ashwin
  #include<stdio.h> 
  void main()
-{
+iii hie {
 
  if()  
   {
